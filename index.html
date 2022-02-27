@@ -37,7 +37,7 @@
 	<header id="header" class="header-top">
 		<div class="container">
 			<h1><a href="index.html">Bayron Jonathan Vazquez</a></h1>
-			<h2>Soy un programador <span>Full Stack</span> de México.</h2>
+			<h2>Soy un programador <span>Full Stack</span> de México en busca de nuevos retos.</h2>
 
 			<nav id="navbar" class="navbar">
 				<ul>
@@ -52,10 +52,10 @@
 			</nav><!-- .navbar -->
 
 			<div class="social-links social-media-container">
-				<i class="bi bi-linkedin neon-icons"></i>
-				<i class="bi bi-facebook neon-icons"></i>
-				<i class="bi bi-github neon-icons"></i>
-				<i class="bi bi-youtube neon-icons"></i>
+				<i class="bi bi-linkedin neon-icons" id="linkedin"></i>
+				<i class="bi bi-facebook neon-icons" id="facebook"></i>
+				<i class="bi bi-github neon-icons" id="github"></i>
+				<i class="bi bi-youtube neon-icons" id="youtube"></i>
 			</div>
 		</div>
 	</header><!-- End Header -->
@@ -1089,12 +1089,26 @@
 	<!-- Template Main JS File -->
 	<script src="assets/js/main.js"></script>
 	<script>
-		$('#btn-send-messaje').click( function(e){
-			e.preventDefault();
-			Swal.fire({
-				icon: 'error',
-				title: 'Oops...',
-				text: 'Esta opcion aun no esta habilita, contactame directamente.',
+		$(document).ready( function(){
+			$('#btn-send-messaje').click( function(e){
+				e.preventDefault();
+				Swal.fire({
+					icon: 'error',
+					title: 'Oops...',
+					text: 'Esta opcion aun no esta habilita, contactame directamente.',
+				});
+			});
+			$('#linkedin').click( function(){
+				window.open("https://www.linkedin.com/in/bayron-jonathan-vazquez/");
+			});
+			$('#github').click( function(){
+				window.open("https://github.com/BayronVazquez");
+			});
+			$('#youtube').click( function(){
+				window.open("https://www.youtube.com/channel/UC0c6M9vcV3jPbYEK2UHJk6w");
+			});
+			$('#facebook').click( function(){
+				window.open("https://www.facebook.com/ITMDevelopers/");
 			});
 		});
 	</script>

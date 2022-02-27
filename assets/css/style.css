@@ -21,15 +21,22 @@
   text-shadow: 0 0 50px #0072ff, 0 0 100px #0072ff, 0 0 150px #0072ff,
     0 0 200px #0072ff;
 }
-#youtube {
-  animation-delay: 0.3s;
-}
-#facebook {
-  animation-delay: 0.7s;
+.neon-icons:hover{
+  cursor: pointer;
 }
 #github {
   animation-delay: 0.1s;
 }
+#linkedin{
+  animation-delay: 0.3s;
+}
+#youtube {
+  animation-delay: 0.5s;
+}
+#facebook {
+  animation-delay: 0.7s;
+}
+
 @media (max-width: 992px) {
   .social-media-container{
     justify-content: center;
