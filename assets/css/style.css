@@ -1,5 +1,55 @@
+/* ==========================================================================================
+            Estilos de Iconos NEON de redes sociales en la pagina Home
+   ==========================================================================================
+*/
 
-
+.social-media-container {
+  height: 100px;
+  width: 100%;
+  display: flex;
+  justify-content: start;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.neon-icons {
+  font-size: 4em;
+  color: #fff;
+  border-radius: 29px;
+  padding: 11px 19px;
+  margin: 0 40px;
+  animation: animate 3s linear infinite;
+  text-shadow: 0 0 50px #0072ff, 0 0 100px #0072ff, 0 0 150px #0072ff,
+    0 0 200px #0072ff;
+}
+#youtube {
+  animation-delay: 0.3s;
+}
+#facebook {
+  animation-delay: 0.7s;
+}
+#github {
+  animation-delay: 0.1s;
+}
+@media (max-width: 992px) {
+  .social-media-container{
+    justify-content: center;
+  }
+  .neon-icons {
+    margin: 10px;
+  }
+}
+@keyframes animate {
+  from {
+    filter: hue-rotate(0deg);
+  }
+  to {
+    filter: hue-rotate(360deg);
+  }
+}
+/* ==========================================================================================
+                                      Estilos generales
+   ==========================================================================================
+*/
 body {
   font-family: "Open Sans", sans-serif;
   background-color: #040404;
@@ -17,6 +67,22 @@ body::before {
   top: 0;
   height: 100vh;
   z-index: -1;
+}
+.skillList li {
+  display: inline-block;
+  text-decoration: none;
+  list-style: none;
+  text-align: center;
+  background-color: #EBEBEB;
+  width: 80px;
+  margin: 10px;
+  border-radius: 10px;
+  padding: 10px;
+}
+.skillList li span {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  color: black;
 }
 @media (min-width: 1024px) {
   body::before {
@@ -1011,6 +1077,11 @@ section .container {
     text-align: center;
     padding: 10px;
     background: rgba(0, 0, 0, 0.8);
+  }
+}
+@media (max-width: 550px) {
+  .credits {
+    display: none;
   }
 }
 .credits a {
