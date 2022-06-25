@@ -67,7 +67,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/bg2.png") top right no-repeat;
+  background: #040404 url("../img/bg3.png") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
@@ -114,6 +114,9 @@ h1, h2, h3, h4, h5, h6 {
 /*--------------------------------------------------------------
 # Header
 --------------------------------------------------------------*/
+.opaco{
+  background-color: rgba(0, 0, 0, 0.7);
+}
 #header {
   transition: ease-in-out 0.3s;
   position: relative;
@@ -135,7 +138,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Poppins", sans-serif;
 }
 #header h1 a, #header h1 a:hover {
-  color: #fff;
+  color: #FFF;
   line-height: 1;
   display: inline-block;
 }
