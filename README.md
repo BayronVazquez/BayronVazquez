@@ -1,11 +1,15 @@
+<p align=center> 
+    <strong>
+        <img src='https://komarev.com/ghpvc/?username=BayronVazquez&color=008080'>
+    </strong>
+</p>
+
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BayronVazquez&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false&card_width=400em" />
   
-  <br/><br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BayronVazquez&theme=radical&card_width=800em)"/>
   <br/>
 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BayronVazquez&langs_count=8&layout=compact&bg_color=130F40&text_color=FFFFFF"/>
 </div>
 
 ### Contact
@@ -20,7 +24,7 @@
 
 :link: LinkedIn Profile: https://www.linkedin.com/in/bayron-jonathan-vazquez/
 
-![View count](https://komarev.com/ghpvc/?username=BayronVazquez)
+
 
 ### Programming Languages && Technologies
 <div align="center">
