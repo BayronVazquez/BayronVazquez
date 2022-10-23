@@ -1,32 +1,19 @@
-<p align=center> 
-    <strong>
-        <img src='https://komarev.com/ghpvc/?username=BayronVazquez&color=008080'>
-    </strong>
-</p>
-
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BayronVazquez&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false&card_width=400em" />
-  
-  <br/>
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BayronVazquez&langs_count=8&layout=compact&bg_color=130F40&text_color=FFFFFF"/>
+<img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=BayronVazquez&background=130F40&border=fff&currStreakNum=fff&ring=7A7ADB&sideNums=fff&dates=d5d5d5&sideLabels=d5d5d5" alt="stats2" />
 </div>
 
-### Contact
+<div align="center">
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=BayronVazquez&bg_color=130F40&icon_color=d73d4e&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="Bayron Vazquez Github Stars"/>
+</div>
 
-:e-mail: Email: bayronnjonathan@gmail.com
-
-:phone: Phone: +52 868-310-2133
-
-:globe_with_meridians: BlogSpot: https://itm-developers.blogspot.com/
-
-:globe_with_meridians: Web-Site: https://bayronvazquez.github.io/BayronVazquez/
-
-:link: LinkedIn Profile: https://www.linkedin.com/in/bayron-jonathan-vazquez/
+<div align="center">
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BayronVazquez&langs_count=8&layout=compact&bg_color=130F40&text_color=FFFFFF" />
+</div>
 
 
-
-### Programming Languages && Technologies
+<div align="center">
+    <h1>Programming Languages && Technologies</h1>
+</div>
 <div align="center">
     <img src="https://img.shields.io/badge/PHP-E34F26?style=for-the-badge&logo=php&logoColor=white">
     <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white">
