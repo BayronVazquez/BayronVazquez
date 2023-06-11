@@ -1,19 +1,8 @@
-<div align="center">
-<img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=BayronVazquez&background=130F40&border=fff&currStreakNum=fff&ring=7A7ADB&sideNums=fff&dates=d5d5d5&sideLabels=d5d5d5" alt="stats2" />
-</div>
 
 <div align="center">
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=BayronVazquez&bg_color=130F40&icon_color=d73d4e&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="Bayron Vazquez Github Stars"/>
+<img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BayronVazquez&langs_count=8&layout=compact&bg_color=130F40&text_color=FFFFFF" />
 </div>
 
-<div align="center">
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BayronVazquez&langs_count=8&layout=compact&bg_color=130F40&text_color=FFFFFF" />
-</div>
-
-
-<div align="center">
-    <h1>Programming Languages && Technologies</h1>
-</div>
 <div align="center">
     <img src="https://img.shields.io/badge/PHP-E34F26?style=for-the-badge&logo=php&logoColor=white">
     <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white">
