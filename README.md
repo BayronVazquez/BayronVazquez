@@ -1,4 +1,6 @@
 
+I am Bayron Jonathan Vazquez, a freelancer specialized in web development and mobile applications. With 5 years of experience in the industry, I offer design and development services for responsive websites and mobile apps. Discover my CV online and contact me to collaborate on your next project.
+
 <div align="center">
 <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BayronVazquez&langs_count=8&layout=compact&bg_color=130F40&text_color=FFFFFF" />
 </div>
